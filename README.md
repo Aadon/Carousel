@@ -1,1 +1,1 @@
-This is a week 7 task on the Zuri internship. The project is a carousel built with vanilla Javascript.
+This is a week 7 task on the Zuri internship. The project is about a carousel built with vanilla Javascript.
